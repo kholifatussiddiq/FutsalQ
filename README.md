@@ -1,4 +1,4 @@
-# futsal_app
+# FutsalQ
 
 A new Flutter project.
 

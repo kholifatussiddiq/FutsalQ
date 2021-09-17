@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199502097277",
+    "project_id": "futsal-q",
+    "storage_bucket": "futsal-q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199502097277:android:4e5ebc9d672bfd75793a14",
+        "android_client_info": {
+          "package_name": "com.example.futsal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199502097277-76g0l08fo7bmrm5q2hpm980411fs33hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWsp3IfbbQRi6qh2pL16RVH8e8SRuQT_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199502097277-76g0l08fo7bmrm5q2hpm980411fs33hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
